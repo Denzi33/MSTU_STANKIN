@@ -1,0 +1,18 @@
+﻿  ReversiGame.cpp
+  ReversiGameBoard.cpp
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(89,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(89,54): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(115,40): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(115,54): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(142,40): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(142,54): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(168,40): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(168,54): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(194,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(219,29): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameBoard.cpp(243,29): warning C4018: <: несоответствие типов со знаком и без знака
+  ReversiGameManager.cpp
+C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\ReversiGameManager.cpp(6,15): warning C4101: boardsize: неиспользованная локальная переменная
+  ReversiGamePlayer.cpp
+  Создание кода...
+  ReversiGame.vcxproj -> C:\Users\Deniz\OneDrive\Рабочий стол\Sandbox\ReversiGame\x64\Debug\ReversiGame.exe
